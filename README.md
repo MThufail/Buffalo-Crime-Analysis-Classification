@@ -8,7 +8,7 @@ The primary motivation for this project is to understand different types of inci
 
 ## Files and Directories
 - `BuffaloCrimeAnalysis.py`: Python script containing the analysis code.
-- `Crime_Incidents.csv`: Input CSV file containing crime incident data.
+- `Crime_Incidents.csv`: Input CSV file containing crime incident data. (https://data.buffalony.gov/Public-Safety/Crime-Incidents/d6g9-xbgu/about_data)
 - `normalized.db`: SQLite database file for storing normalized data.
 
 ## Usage
